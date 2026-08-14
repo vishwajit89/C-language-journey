@@ -14,7 +14,7 @@ from absolute beginner to AI Engineer
 Become an AI Engineer by 2031
 
 ## Progress
-- [ ] C Language (In Progress)
+- [✅ ] C Language (In Progress)
 - [ ] Python
 - [ ] Data Structures & Algorithms
 - [ ] AI/ML Engineering
